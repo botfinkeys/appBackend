@@ -2,7 +2,7 @@
 
 ## Versions Used
 - Spring Boot - 2.2.0-M1
-- H2 Database - 1.4.197
+- mysql Database - 1.4.197
 
 ## Configuration
 `
